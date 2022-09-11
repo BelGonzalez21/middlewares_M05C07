@@ -1,0 +1,9 @@
+
+el usuario ingreso a la ruta /
+el usuario ingreso a la ruta /about
+el usuario ingreso a la ruta /contact
+el usuario ingreso a la ruta /music
+el usuario ingreso a la ruta /admin
+el usuario ingreso a la ruta /login
+el usuario ingreso a la ruta /admin
+el usuario ingreso a la ruta /noEntry
